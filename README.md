@@ -26,7 +26,7 @@ API Testing: Postman
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/todo-list-api.git
+git clone https://github.com/SubodhJadhavCS/Rest-API-for-to-do-list-using-spring-boot.git
 2️⃣ Configure application.properties with your MySQL credentials.
 3️⃣ Run the application using:
 
